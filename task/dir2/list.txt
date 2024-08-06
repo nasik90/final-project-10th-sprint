@@ -1,6 +1,0 @@
-empty
-hello.sh*
-list.txt
-./dir1/summary.txt
-./dir2/list.txt
-./dir3/dir4/list.txt
