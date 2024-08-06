@@ -1,0 +1,2 @@
+bash precode.sh
+pause
